@@ -1,0 +1,24 @@
+{
+    "TheCrewCraft": {
+        "name": "TheCrewCraft",
+        "url": "__BASE__/files/TheCrewCraft.json",
+        "loader": {
+            "minecraft_version": "1.21.1",
+            "loader_type": "neoforge",
+            "loader_version": "21.1.252"
+        },
+        "verify": true,
+        "ignored": [
+            "config", "defaultconfigs", "logs", "crash-reports", "resourcepacks", "saves",
+            "screenshots", "shaderpacks", "schematics", "xaero", "XaeroWaypoints", "XaeroWorldMap",
+            "local", "options.txt", "servers.dat"
+        ],
+        "whitelist": [],
+        "whitelistActive": false,
+        "status": {
+            "nameServer": "The CrewCraft",
+            "ip": "63.135.165.193",
+            "port": 9085
+        }
+    }
+}
