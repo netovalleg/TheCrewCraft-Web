@@ -1,0 +1,7 @@
+{
+    "maintenance": false,
+    "maintenance_message": "El launcher está en mantenimiento.<br>Inténtalo de nuevo más tarde.",
+    "online": true,
+    "client_id": "",
+    "dataDirectory": "TheCrewCraft"
+}
